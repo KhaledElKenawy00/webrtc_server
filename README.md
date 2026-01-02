@@ -1,20 +1,20 @@
-# WebRTC Signalling Server
+# WebRTC  Server
 
 ## Clone Repository
 
 Clone the repository to your local environment.
 
 ```sh
-git clone https://github.com/videosdk-live/webrtc.git
+git clone https://github.com/KhaledElKenawy00/webrtc_server
 ```
 
 ### Server Setup
 
-#### Step 1: Go to  webrtc-signalling-server folder
+#### Step 1: Go to  webrtc_server folder
 
 ```js
 
-cd webrtc-signalling-server
+cd webrtc_server
 
 ```
 
